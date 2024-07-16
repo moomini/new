@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["frame1.37460442.css","frame1.css"],"sourcesContent":[".frame1 {\n  width: 100%;\n  height: 77.7px;\n  position: relative;\n  overflow: hidden;\n}\n/*# sourceMappingURL=frame1.37460442.css.map */\n",".frame1 {\n  width: 100%;\n  position: relative;\n  height: 77.7px;\n  overflow: hidden;\n}\n"],"names":[],"version":3,"file":"frame1.37460442.css.map"}
