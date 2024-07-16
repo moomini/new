@@ -1,0 +1,7 @@
+.frame-div {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-linen);
+  height: 2557px;
+  overflow: hidden;
+}
